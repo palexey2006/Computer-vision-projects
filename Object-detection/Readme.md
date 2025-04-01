@@ -3,7 +3,7 @@ This repository demonstrates the use of YOLOv1 (You Only Look Once) for real-tim
 
 ## Directory Structure
 ## YOLOv1_Model.py: 
-Contains the core implementation of the YOLOv1 model for object detection using PyTorch.
+Contains the core implementation of the YOLOv1 model for object detection using PyTorch from scratch
 
 ## Intersection_over_Union.py:
 Script to compute the IoU metric, used to evaluate the accuracy of predicted bounding boxes.
