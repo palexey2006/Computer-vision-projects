@@ -1,4 +1,4 @@
-PytorchExtra
+#PytorchExtra
 
 The PytorchExtra directory contains supplementary resources for enhancing PyTorch-based computer vision workflows. It includes various techniques and implementations aimed at improving model performance, handling dataset challenges, and leveraging pre-trained models for transfer learning. Each section provides practical examples and reusable scripts for integration into machine learning projects.
 
@@ -27,3 +27,4 @@ A Jupyter Notebook illustrating the implementation of transfer learning techniqu
 Usage
 
 Each component in this directory serves as a standalone module that can be integrated into various deep learning projects. The scripts provide structured and efficient solutions to common challenges in computer vision, including data preparation, augmentation, and training improvements.
+
