@@ -4,13 +4,19 @@ The RNN_models directory contains scripts and models related to Recurrent Neural
 I’m a grade 12 student, and this project showcases my understanding of RNNs and their variants, including LSTMs and GRUs.
 
 **Directory Structure**
-RNN_Model.py: A script that implements a simple RNN model for sequence prediction. It demonstrates how to build and train a basic RNN using PyTorch.
 
-## LSTM_Model.py: A script showcasing the use of Long Short-Term Memory (LSTM) networks, a more advanced version of RNNs designed to handle long-term dependencies in data.
 
-## GRU_Model.py: A script for Gated Recurrent Units (GRUs), which are an alternative to LSTMs, offering a simpler architecture while maintaining similar performance in certain tasks.
+## RNN_Model.py:
+A script that implements a simple RNN model for sequence prediction. It demonstrates how to build and train a basic RNN using PyTorch.
+
+## LSTM_Model.py:
+A script showcasing the use of Long Short-Term Memory (LSTM) networks, a more advanced version of RNNs designed to handle long-term dependencies in data.
+
+## GRU_Model.py:
+A script for Gated Recurrent Units (GRUs), which are an alternative to LSTMs, offering a simpler architecture while maintaining similar performance in certain tasks.
 
 ## Difference Between RNN, LSTM, and GRU
+
 ### RNN (Recurrent Neural Network):
 
 A basic RNN is designed to handle sequential data by maintaining a hidden state over time. However, RNNs struggle to capture long-term dependencies because of issues like the vanishing gradient problem. As a result, they may not perform well on tasks where the relationship between distant time steps is important.
