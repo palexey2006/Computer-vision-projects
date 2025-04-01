@@ -1,8 +1,8 @@
 # PytorchExtra
 
-The PytorchExtra directory contains supplementary resources for enhancing PyTorch-based computer vision workflows. It includes various techniques and implementations aimed at improving model performance, handling dataset challenges, and leveraging pre-trained models for transfer learning. Each section provides practical examples and reusable scripts for integration into machine learning projects.
+The **PytorchExtra** directory contains supplementary resources for enhancing PyTorch-based computer vision workflows. It includes various techniques and implementations aimed at improving model performance, handling dataset challenges, and leveraging pre-trained models for transfer learning. Each section provides practical examples and reusable scripts for integration into machine learning projects.
 
-Directory Structure
+**Directory Structure**
 
 ## Albumentations/
 
