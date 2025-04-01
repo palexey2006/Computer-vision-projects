@@ -4,9 +4,9 @@ My name is Aleksei Pustovoit, and I am a Grade 12 student at Innisdale Secondary
 I have worked extensively with PyTorch, focusing on CNNs, object detection models, RNNs, transfer learning, and data augmentation. I also experimented with custom datasets, demonstrating my ability to handle real-world data and improve model generalization.
 
 ## Projects Overview
-Object Detection: Implementation of YOLOv1 with evaluation metrics such as IoU, mAP, and NMS.
+Object Detection: Implementation of YOLOv1 with evaluation metrics such as IoU, mAP, and NMS.(Due to the lack of computation power I did not trained YOLOv1)
 
-*CNN Models*: Comparative study of LeNet, AlexNet, VGG16, GoogleNet, and ResNet to understand their performance trade-offs.
+*CNN Models*: Comparative study of LeNet, AlexNet, VGG16, GoogleNet, and ResNet to understand their performance trade-offs.(Due to the lack of computation power I did not trained VGG,GoogleNet and ResNet)
 
 *Recurrent Neural Networks (RNNs)*: Implementation of RNN, LSTM, and GRU models for sequence-based tasks.
 
