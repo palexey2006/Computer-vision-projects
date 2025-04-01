@@ -4,27 +4,27 @@ The PytorchExtra directory contains supplementary resources for enhancing PyTorc
 
 Directory Structure
 
-Albumentations/
+## Albumentations/
 
 This folder contains scripts demonstrating the use of the Albumentations library for advanced image augmentation. Albumentations provides efficient and flexible transformations that improve model generalization and robustness to various real-world conditions.
 
-Data_augmentation/
+## Data_augmentation/
 
 A collection of scripts showcasing different data augmentation techniques, including flipping, rotation, color jittering, and other transformations. Augmenting datasets helps reduce overfitting and improves model accuracy, especially when working with limited data.
 
-Handling_imbalanced_datasets/
+## Handling_imbalanced_datasets/
 
 Includes methods for addressing class imbalance in datasets. Various strategies such as oversampling, undersampling, and weighted loss functions are implemented to ensure fair training across all classes.
 
-Custom_datasets.py
+## Custom_datasets.py
 
 A script demonstrating how to create custom datasets in PyTorch. It includes dataset class definitions that extend torch.utils.data.Dataset, allowing seamless integration of unique data formats into PyTorch pipelines.
 
-Transfer_learning.ipynb
+## Transfer_learning.ipynb
 
 A Jupyter Notebook illustrating the implementation of transfer learning techniques in PyTorch. The notebook covers model fine-tuning, feature extraction, and practical applications of pre-trained models such as ResNet and EfficientNet.
 
-Usage
+## Usage
 
 Each component in this directory serves as a standalone module that can be integrated into various deep learning projects. The scripts provide structured and efficient solutions to common challenges in computer vision, including data preparation, augmentation, and training improvements.
 
