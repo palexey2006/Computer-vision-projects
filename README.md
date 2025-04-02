@@ -1,5 +1,5 @@
 # Computer Vision Portfolio
-My name is Aleksei Pustovoit, and I am a Grade 12 student at Innisdale Secondary School, set to graduate in Summer 2025. I am passionate about computer vision and deep learning, and I enjoy building models that can interpret and analyze images. This portfolio showcases my projects, demonstrating my ability to develop and optimize neural networks for real-world applications.
+My name is Aleksei Pustovoit, and I am a Grade 12 student at Innisdale Secondary School, set to graduate in Summer 2025. I will be enrolling in the Computer Science program at Georgian College this fall. I am passionate about computer vision and deep learning, and I enjoy building models that can interpret and analyze images. This portfolio showcases my projects, demonstrating my ability to develop and optimize neural networks for real-world applications.
 
 I have worked extensively with PyTorch, focusing on CNNs, object detection models, RNNs, transfer learning, and data augmentation. I also experimented with custom datasets, demonstrating my ability to handle real-world data and improve model generalization.
 
